@@ -255,7 +255,7 @@ lib> db.books.find({price:{$eq:600}})
 ]
 ```
 
-## Complex Select operations with multiple clause and select operators
+## 4. Complex Select operations with multiple clause and select operators
 
 In this we use more than one query for operation
 
